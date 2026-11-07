@@ -8,6 +8,11 @@ A guitar made for the [Sakura Falls Minecraft server](https://github.com/SakuraF
 ![Relic Guitar](screenshots/Relic-Guitar.png)
 
 ### Ancient Book - 
-An random book I've decided to model from a random picture on Google.
+A random book I've decided to model from a random picture on Google.
 
 ![Ancient Book](screenshots/Ancient-Book.png)
+
+### Lion(Furry :3) - 
+A lion tail and ears I've made for [Figura](https://figuramc.org/).
+
+![Lion Tail](screenshots/Lion-Tail.png) ![Lion Ears](screenshots/Lion-Ears.png)
