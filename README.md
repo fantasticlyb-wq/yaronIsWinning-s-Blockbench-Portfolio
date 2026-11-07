@@ -12,7 +12,12 @@ A random book I've decided to model from a random picture on Google.
 
 ![Ancient Book](screenshots/Ancient-Book.png)
 
-### Lion(Furry :3) - 
+### Lion (Furry :3) - 
 A lion tail and ears I've made for [Figura](https://figuramc.org/).
 
 ![Lion Tail](screenshots/Lion-Tail.png) ![Lion Ears](screenshots/Lion-Ears.png)
+
+### Massacred Mask - 
+A mask I made for the [Sakura Falls Minecraft server](https://github.com/SakuraFalls-Server/SakuraFalls-Denizen-Scripts.git) requested by a player.
+
+![Massacred Mask](screenshots/Massacred-Mask.png)
