@@ -1,5 +1,6 @@
 # yaronIsWinning's Blockbench Portfolio
 A portfolio used to share **my** works using Github.
+Make sure to start this repo, do it.
 
 ## Minecraft models
 ### Relic Guitar - 
